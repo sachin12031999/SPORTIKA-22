@@ -1,0 +1,82 @@
+ <section id="mu-pricing">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-pricing-area">
+							
+							<div class="mu-title-area">
+								<h2 class="mu-title">Pricing plans</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis unde, ut sapiente et voluptatum facilis consectetur incidunt provident asperiores at necessitatibus nulla sequi voluptas libero quasi explicabo veritatis minima porro.</p>
+							</div>
+							
+							<div class="mu-pricing-conten">
+								<div class="row">
+									
+									<!-- single price item -->
+									<div class="col-md-4">
+										<div class="mu-single-price">
+
+											<div class="mu-single-price-head">
+												<span class="mu-currency">$</span>
+												<span class="mu-rate">12</span>
+												<span class="mu-time">/all days</span>
+											</div>
+											<h3 class="mu-price-title">BASIC</h3>
+											<ul>
+												<li>Basic Class Ticket</li>
+												<li>Access to all sessions</li>
+												<li>Free Breakfast</li>
+											</ul>
+											<a class="mu-register-btn" href="#"> Register Now</a>
+										</div>
+									</div>
+									<!-- / single price item -->
+
+									<!-- single price item -->
+									<div class="col-md-4">
+										<div class="mu-single-price mu-popular-price">
+											<span class="mu-price-tag">Popular</span>
+											<div class="mu-single-price-head">
+												<span class="mu-currency">$</span>
+												<span class="mu-rate">22</span>
+												<span class="mu-time">/all days</span>
+											</div>
+											<h3 class="mu-price-title">STANDARD</h3>
+											<ul>
+												<li>Basic Class Ticket</li>
+												<li>Access to all sessions</li>
+												<li>Free Breakfast</li>
+											</ul>
+											<a class="mu-register-btn" href="#"> Register Now</a>
+										</div>
+									</div>
+									<!-- / single price item -->
+
+									<!-- single price item -->
+									<div class="col-md-4">
+										<div class="mu-single-price">
+
+											<div class="mu-single-price-head">
+												<span class="mu-currency">$</span>
+												<span class="mu-rate">45</span>
+												<span class="mu-time">/all days</span>
+											</div>
+											<h3 class="mu-price-title">PREMIUM</h3>
+											<ul>
+												<li>Basic Class Ticket</li>
+												<li>Access to all sessions</li>
+												<li>Free Breakfast</li>
+											</ul>
+											<a class="mu-register-btn" href="#"> Register Now</a>
+										</div>
+									</div>
+									<!-- / single price item -->
+
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> 
